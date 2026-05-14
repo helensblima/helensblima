@@ -54,14 +54,6 @@ I believe good code and good design go hand in hand — and I love when both wor
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helensblima&theme=tokyo-night&hide_border=true&color=C084FC&line=F472B6&point=C084FC&area=true&area_color=C084FC" alt="Helen's Activity Graph"/>
-</p>
-
----
-
 <div align="center">
   <i>💜 Let's build something beautiful together!</i>
 </div>
