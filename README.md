@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/helenslima" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://sorteio-copa.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/sorteio--copa-%23F472B6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://helenlima.dev" target="_blank">
+    <img src="https://img.shields.io/badge/helenlima.dev-%23C084FC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
@@ -21,7 +21,7 @@ Frontend Developer based in Rio de Janeiro 🇧🇷, passionate about crafting b
 
 I believe good code and good design go hand in hand — and I love when both work together perfectly.
 
-- 🔭 Currently building my **personal portfolio website**
+- 🔭 Check out my portfolio at **[helenlima.dev](https://helenlima.dev)**
 - 💻 Always learning, always evolving
 - 💬 Open to conversations and new opportunities
 - ✨ Details matter — in code and in life
